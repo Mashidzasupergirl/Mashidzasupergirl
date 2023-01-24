@@ -12,7 +12,7 @@ I’m passionate about Web technologies, Javascript and Python programming langu
 and B.S. degree in robotics, automation, and processes control, as well as, completed courses in Beetroot Academy and
 </Salt> allow me to be a successful software engineer 😊
 </p>
-<a href="https://mashidzasupergirl.github.io/Portfolio/">Here is my portfolio</a>
+<a href="https://mashidzasupergirl.github.io/Portfolio/" target="_blank" >Here is my portfolio 👈</a>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
