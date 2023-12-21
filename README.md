@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Maria ✌️</h1>
-<h3 align="center">Full Stack JavaScript Developer <img width="50" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"/></h3>
+<h3 align="center">Full Stack Developer <img width="50" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"/></h3>
 <p>
-  I'm passionate software engineer with work experience as a Frontend developer in Beetroot and a QA engineer in Webforum.
-I successfully completed the JavaScript FullStack course in School of Applied Technology.
-I’m passionate about Web technologies, Javascript and Python programming languages. My professional background
-and B.S. degree in robotics, automation, and processes control, as well as, completed courses in Beetroot Academy and
-</Salt> allow me to be a successful software engineer 😊
+  Full Stack Software Engineer at Klarna with a passion for web technologies and expertise in TypeScript, Python, React, NodeJS, Django, and AWS. I hold a B.S. degree in Robotics, Automation, and Process Control. My professional background couples with my versatile programming skills, enabling me to craft seamless web solutions. My experience in building robust web applications using Django's high-level Python web framework, combined with deploying scalable and resilient infrastructure on AWS, allows me to be an instrumental part of a dynamic software engineering team.
 </p>
 <a href="https://mashidzasupergirl.github.io/Portfolio/" target="_blank" >Here is my portfolio 👈</a>
 <h3 align="left">Languages:</h3>
